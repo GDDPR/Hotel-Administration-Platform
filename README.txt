@@ -1,3 +1,23 @@
+CSI 2132 W-2025 (uOttawa) Project
+Hotel Management System
+
+Project made with flask and PostgreSQL
+
+SQLAlchemy is used to send/receive db calls, but all db calls are made using queries (no ORMs, as per project rules)
+
+Database is remotely hosted on neon db
+
+CSS handled by bootstrap
+
+Collaborators:
+
+Kevin Zheng (front end & backend)
+
+Sijun Liu (server & queries)
+
+
+
+
 REQUIREMENTS
 
 python3
