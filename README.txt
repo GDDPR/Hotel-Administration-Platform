@@ -13,7 +13,7 @@ Collaborators:
 
 Kevin Zheng (front end & backend)
 
-Sijun Liu (server & queries)
+Sijun Liu (db and queries)
 
 
 
@@ -46,7 +46,8 @@ Also need this below:
     - pip install email_validator 
 
 
-*** The Github public version of this project uses python-dotenv
+*** The Github public version of this project uses a public branch of the remote db
+*** For demonstation purposes only. Unauthorized use is not permitted. 
 
 
 To run flask app:
